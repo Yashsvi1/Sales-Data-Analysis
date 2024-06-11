@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Sales Vision Pro
 
 ## Purpose
 
@@ -6,7 +6,7 @@ The primary goal of this project is to analyze sales data to identify trends, to
 
 ## Description
 
-In the "Sales Data Analysis" project, we delve into a comprehensive sales dataset to uncover valuable insights. Key objectives include:
+In the "Sales Vision Pro" project, we delve into a comprehensive sales dataset to uncover valuable insights. Key objectives include:
 
 1. **Exploring Sales Trends**: Analyze sales data over time to identify patterns and trends.
 2. **Identifying Best-Selling Products**: Determine which products are performing best in terms of sales volume and revenue.
@@ -44,4 +44,4 @@ For any questions or inquiries, please contact:
 
 ---
 
-Thank you for exploring the Sales Data Analysis project. We hope you find the insights valuable and the visualizations helpful for making informed business decisions.
+Thank you for exploring the Sales Vision Pro project. We hope you find the insights valuable and the visualizations helpful for making informed business decisions.
